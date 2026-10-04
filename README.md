@@ -263,7 +263,7 @@ A move may be rejected if:
 
 ---
 
-## Check
+### Check
 
 A player is in **check** when their king is under attack by an opposing piece.
 
@@ -279,7 +279,7 @@ The player must make a move that removes the threat to their king.
 
 ---
 
-## Checkmate
+### Checkmate
 
 A **checkmate** occurs when a player's king is in check and there are no valid moves available to escape the check.
 
@@ -293,7 +293,7 @@ The game then ends.
 
 ---
 
-## Stalemate
+### Stalemate
 
 A **stalemate** occurs when the current player is not in check but has no valid legal moves available.
 
@@ -307,7 +307,7 @@ The game then ends.
 
 ---
 
-## Special Moves
+### Special Moves
 
 The game also implements several special chess moves.
 
@@ -392,10 +392,7 @@ Contains example gameplay files that were used to test different game situations
 
 ## Technologies Used
 
-- **Python 3.12**
-- **VS Code**
-- **Git**
-- **GitHub**
+**Python 3.12**
 
 ---
 
@@ -422,3 +419,4 @@ One of the main challenges was implementing chess rules while making sure that e
 
 Bachelor of Information Technology  
 The University of Queensland
+2024
